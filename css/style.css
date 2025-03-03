@@ -2,7 +2,7 @@
 /*** Spinner Start ***/
 /*** Spinner ***/
 #spinner {
-    opacity: 0;
+    opacity: 0; 
     visibility: hidden;
     transition: opacity .5s ease-out, visibility 0s linear .5s;
     z-index: 99999;
@@ -344,7 +344,7 @@
     background-repeat: no-repeat;
     background-attachment: initial;
     background-size: cover;
-    padding: 100px 0 60px 0;
+    padding: 15px 0 15px 0;
 }
 /*** Single Page Hero Header End ***/
 
